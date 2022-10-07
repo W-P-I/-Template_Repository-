@@ -2,7 +2,7 @@
 name: "[BUG] | Bug / Storing report | (Telefonisch) Bij klant op locatie |"
 about: Beschrijf het probleem, via vragenlijst.
 title: "[BUG]"
-labels: bug
+labels: Agenda-Item, bug
 assignees: ''
 
 ---

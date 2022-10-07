@@ -2,7 +2,7 @@
 name: Werkoverdracht
 about: iemand anders gaat verder met dit item.
 title: ''
-labels: Agenda-Item
+labels: Agenda-Item, documentation, enhancement, help wanted
 assignees: ''
 
 ---

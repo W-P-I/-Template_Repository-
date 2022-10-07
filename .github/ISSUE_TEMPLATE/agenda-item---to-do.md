@@ -2,7 +2,7 @@
 name: Agenda item / To do
 about: Een agenda item aanmaken voor de werkflow.
 title: ''
-labels: Agenda-Item
+labels: Agenda-Item, documentation
 assignees: ''
 
 ---

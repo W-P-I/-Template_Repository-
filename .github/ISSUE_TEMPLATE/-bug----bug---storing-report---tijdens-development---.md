@@ -1,5 +1,5 @@
 ---
-name: Bug report tijdens development
+name: "[BUG] | Bug / Storing report | tijdens development | "
 about: Create a report to help us improve
 title: "[BUG]"
 labels: bug
